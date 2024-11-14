@@ -1,0 +1,11 @@
+RESPONSE FORMAT -> JSON
+
+GET /User - > list all the user's  (html document)
+
+GET /api/User/1  -> list the user having id =1 (json format)
+
+POST /api/user   -> create the new user          (json format)
+
+PATCH /api/user/1 -> Edit the user with id =1   (json format)
+
+DELETE /api/user/1 -> Delete the user with id =1    (json format)

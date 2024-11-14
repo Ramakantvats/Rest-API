@@ -1,0 +1,21 @@
+
+ 1725038478039 : GET : /api/users/101
+ 1725038498205 : GET : /api/users/102
+ 1725038501319 : GET : /api/users
+ 1725038559722 : POST : /api/users
+ 1725198813513 : PATCH : /api/users/103
+ 1725198861496 : GET : /api/users
+ 1725198890558 : DELETE : /api/users/103
+ 1725198902816 : GET : /api/users
+ 1725199060489 : GET : /api/users/101
+ 1725199202311 : GET : /api/users/101
+ 1725199383297 : PATCH : /api/users/101
+ 1725199521568 : GET : /api/users
+ 1725202684808 : PATCH : /api/users/101
+ 1725202774011 : PATCH : /api/users/101
+ 1725202784861 : POST : /api/users
+ 1725203100085 : GET : /api/users
+ 1725203217341 : POST : /api/users
+ 1725203231944 : POST : /api/users
+ 1725203302426 : POST : /api/users
+ 1725203859703 : GET : /api/users/1011
